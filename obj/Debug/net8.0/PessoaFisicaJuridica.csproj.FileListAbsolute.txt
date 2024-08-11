@@ -1,0 +1,14 @@
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\bin\Debug\net8.0\PessoaFisicaJuridica.exe
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\bin\Debug\net8.0\PessoaFisicaJuridica.deps.json
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\bin\Debug\net8.0\PessoaFisicaJuridica.runtimeconfig.json
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\bin\Debug\net8.0\PessoaFisicaJuridica.dll
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\bin\Debug\net8.0\PessoaFisicaJuridica.pdb
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\PessoaFisicaJuridica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\PessoaFisicaJuridica.AssemblyInfoInputs.cache
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\PessoaFisicaJuridica.AssemblyInfo.cs
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\PessoaFisicaJuridica.csproj.CoreCompileInputs.cache
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\PessoaFisicaJuridica.dll
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\refint\PessoaFisicaJuridica.dll
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\PessoaFisicaJuridica.pdb
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\PessoaFisicaJuridica.genruntimeconfig.cache
+C:\Users\feron\Desktop\C#\PessoaFisicaJuridica\PessoaFisicaJuridica\obj\Debug\net8.0\ref\PessoaFisicaJuridica.dll
